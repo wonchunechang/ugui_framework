@@ -70,3 +70,56 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+# =============== #
+ 
+# Unity generated #
+ 
+# =============== #
+ 
+Temp/
+ 
+Obj/
+ 
+UnityGenerated/
+ 
+Library/
+ 
+Logs/
+
+.vscode/
+
+*.apk
+
+*.aab
+
+# ============ #
+ 
+# OS generated #
+ 
+# ============ #
+ 
+.DS_Store
+ 
+.DS_Store?
+ 
+._*
+ 
+.Spotlight-V100
+ 
+.Trashes
+ 
+Icon?
+ 
+ehthumbs.db
+ 
+Thumbs.db
+ 
+GraphicsSettings.asset
+  
+ProjectVersion.txt
+
+Webhook/webhook.txt
+
+.git.bfg-report
